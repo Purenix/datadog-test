@@ -3,5 +3,3 @@ def test():
 
 def foo():
   return None
-
-# need more foo
