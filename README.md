@@ -1,5 +1,3 @@
 # datadog-test
 
 # Overview
-
-# Test
